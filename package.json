@@ -1,0 +1,13 @@
+{
+  "name": "fcc_back_end_development_and_apis",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Gustavo Clay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
